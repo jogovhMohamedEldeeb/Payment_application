@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1692442827 source:c:\users\m7md\desktop\payment_application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Card/card.h"
+	"Server/server.h"
+	"Terminal/terminal.h"
+
+1690675514 c:\users\m7md\desktop\card\card.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1691963723 source:c:\users\m7md\desktop\payment_application\card\card.c
+	"card.h"
+
+1690676636 c:\users\m7md\desktop\payment_application\card\card.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1692003367 source:c:\users\m7md\desktop\payment_application\terminal\terminal.c
+	"terminal.h"
+
+1691120566 c:\users\m7md\desktop\payment_application\terminal\terminal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Card/card.h"
+
+1692391359 source:c:\users\m7md\desktop\payment_application\server\server.c
+	"server.h"
+
+1691940833 c:\users\m7md\desktop\payment_application\server\server.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Card/card.h"
+	"../Terminal/terminal.h"
+
+1692442815 source:c:\users\m7md\desktop\payment_application\application\app.c
+	"app.h"
+
+1691457059 c:\users\m7md\desktop\payment_application\application\app.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Card/card.h"
+	"../Server/server.h"
+	"../Terminal/terminal.h"
+
